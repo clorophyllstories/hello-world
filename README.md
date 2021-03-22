@@ -1,4 +1,4 @@
 # hello-world
 TEST-01
 
-Thi is an attempt tp understand what this is all  about
+Thi is an attempt to understand what this is all  about
